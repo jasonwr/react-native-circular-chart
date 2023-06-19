@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Novsochetra/react-native-circular-chart.git"
+    "url": "git+https://github.com/jasonwr/react-native-circular-chart.git"
   },
   "keywords": [
     "donut-chart",
@@ -51,9 +51,9 @@
   "author": "sochetra NOV <sochetra12.nov@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Novsochetra/react-native-circular-chart/issues"
+    "url": "https://github.com/jasonwr/react-native-circular-chart/issues"
   },
-  "homepage": "https://github.com/Novsochetra/react-native-circular-chart#readme",
+  "homepage": "https://github.com/jasonwr/react-native-circular-chart#readme",
   "devDependencies": {
     "@react-native-community/bob": "^0.17.1",
     "@release-it/conventional-changelog": "^4.0.0",
